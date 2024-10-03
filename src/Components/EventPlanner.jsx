@@ -40,7 +40,16 @@ const EventPlanner = () => {
                     <li>Cultural celebrations</li>
                 </ul>
             </section>
-            <section className='features'></section>
+            <section className='features'>
+                <h2>Features</h2>
+                <ul>
+                    <li>Easy event creationan and management</li>
+                    <li>Customizable event templates</li>
+                    <li>Guest list management</li>
+                    <li>Real-time collaboration</li>
+                    <li>Reminders and notifications</li>
+                </ul>
+            </section>
             <section className='testimonials'></section>
             <section className='contact'></section>
         </div>
