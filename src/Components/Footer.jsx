@@ -1,5 +1,4 @@
 import React from "react";
-import "./EventPlanner.css";
 
 const Footer = () => {
     return (
